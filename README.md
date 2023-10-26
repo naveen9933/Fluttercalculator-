@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This is a simple Calculator app made using Flutter.<br>
-<img src="images/calculatorapp.png" height="400">
+<img src="images/calculator_app.png" height="400">
 
 A few resources to get you started if this is your first Flutter project:
 
